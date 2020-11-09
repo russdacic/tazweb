@@ -48,7 +48,7 @@ Install with 'make install' (PREFIX and DESTDIR are supported for packaging).
 
 Qt Build and install
 --------------------------------------------------------------------------------
-The Qt port is actually only a little toy to play with!
+The Qt port is actually only a little toy to play with!go get github.com/webview/webview
 
   $ make qt
   $ ./tazweb-qt
